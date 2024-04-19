@@ -1,0 +1,66 @@
+
+Apr 07, 2024 18:03:50.60 NEW SESSION
+Apr 07, 2024 18:03:50.60 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 07, 2024 18:04:16.82 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 07, 2024 18:04:58.71 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 07, 2024 18:07:56.67 NEW SESSION
+Apr 07, 2024 18:07:56.68 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 07, 2024 18:08:45.92 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 07, 2024 18:09:42.82 NEW SESSION
+Apr 07, 2024 18:09:42.83 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 08, 2024 10:48:03.90 NEW SESSION
+Apr 08, 2024 10:48:03.90 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 08, 2024 10:51:54.05 NEW SESSION
+Apr 08, 2024 10:51:54.06 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 08, 2024 10:55:57.01 [4960:14708:0408/105557.010:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 08, 2024 11:00:30.75 [4960:14708:0408/110030.757:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+
+Apr 09, 2024 09:23:27.03 NEW SESSION
+Apr 09, 2024 09:23:27.03 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 09, 2024 09:23:57.70 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 09, 2024 09:24:25.06 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 09, 2024 09:25:24.38 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 09, 2024 09:27:56.67 NEW SESSION
+Apr 09, 2024 09:27:56.68 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 09, 2024 18:03:21.58 NEW SESSION
+Apr 09, 2024 18:03:21.59 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 09, 2024 18:18:15.72 [16080:4312:0409/181815.726:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 09, 2024 18:20:45.04 [16080:4312:0409/182045.046:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Apr 11, 2024 19:45:26.83 NEW SESSION
+Apr 11, 2024 19:45:26.83 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 14, 2024 15:22:13.58 NEW SESSION
+Apr 14, 2024 15:22:13.60 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 14, 2024 15:22:41.45 [18620:18624:0414/152241.450:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+Apr 14, 2024 15:27:52.51 [18620:18860:0414/152752.516:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 14, 2024 15:35:18.65 [18620:18860:0414/153518.650:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+
+Apr 15, 2024 16:44:57.78 NEW SESSION
+Apr 15, 2024 16:44:57.78 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 15, 2024 16:48:03.48 [13584:18260:0415/164803.482:ERROR:device_event_log_impl.cc(195)] [16:48:03.482] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Apr 16, 2024 08:53:07.57 NEW SESSION
+Apr 16, 2024 08:53:07.59 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 16, 2024 08:53:33.19 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 16, 2024 08:53:57.33 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 16, 2024 08:54:37.51 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 16, 2024 08:56:36.19 NEW SESSION
+Apr 16, 2024 08:56:36.20 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 16, 2024 08:56:56.14 [10580:5296:0416/085656.146:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 16, 2024 09:17:54.13 [10580:14312:0416/091754.138:ERROR:device_event_log_impl.cc(195)] [09:17:54.144] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 16, 2024 09:32:04.17 [10580:14312:0416/093204.157:ERROR:device_event_log_impl.cc(195)] [09:32:04.158] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 16, 2024 09:32:04.20 [10580:14312:0416/093204.164:ERROR:device_event_log_impl.cc(195)] [09:32:04.164] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Apr 16, 2024 10:47:18.71 [10580:5296:0416/104718.719:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 16, 2024 10:47:18.78 [10580:5296:0416/104718.780:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+
+Apr 17, 2024 19:01:40.56 NEW SESSION
+Apr 17, 2024 19:01:40.57 [3672:10008:0417/190140.565:ERROR:persistent_memory_allocator.cc(903)] Corruption detected in shared-memory segment.
+Apr 17, 2024 19:01:41.91 Created TensorFlow Lite XNNPACK delegate for CPU.

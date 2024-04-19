@@ -1,0 +1,17 @@
+127.0.0.1 - - [15/Apr/2024:16:44:51 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [15/Apr/2024:16:44:54 +0530] "GET /Ebook-App/ HTTP/1.1" 200 5650
+0:0:0:0:0:0:0:1 - - [15/Apr/2024:16:44:54 +0530] "GET /Ebook-App/book/HarryPotter.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [15/Apr/2024:16:44:54 +0530] "GET /Ebook-App/all_component/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [15/Apr/2024:16:44:54 +0530] "GET /Ebook-App/img/b.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [15/Apr/2024:16:44:54 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [15/Apr/2024:16:44:58 +0530] "GET /Ebook-App/index.jsp HTTP/1.1" 200 5650
+0:0:0:0:0:0:0:1 - - [15/Apr/2024:16:45:08 +0530] "GET /Ebook-App/index.jsp HTTP/1.1" 200 5650
+0:0:0:0:0:0:0:1 - - [15/Apr/2024:16:45:10 +0530] "GET /Ebook-App/all_recent_book.jsp HTTP/1.1" 200 4961
+0:0:0:0:0:0:0:1 - - [15/Apr/2024:16:45:11 +0530] "GET /Ebook-App/all_old_book.jsp HTTP/1.1" 200 4282
+0:0:0:0:0:0:0:1 - - [15/Apr/2024:16:45:15 +0530] "GET /Ebook-App/catogory_book.jsp?ca=Programming HTTP/1.1" 200 4865
+0:0:0:0:0:0:0:1 - - [15/Apr/2024:16:45:16 +0530] "GET /Ebook-App/index.jsp HTTP/1.1" 200 5650
+0:0:0:0:0:0:0:1 - - [15/Apr/2024:16:45:26 +0530] "GET /Ebook-App/login.jsp HTTP/1.1" 200 5318
+0:0:0:0:0:0:0:1 - - [15/Apr/2024:16:45:28 +0530] "GET /Ebook-App/register.jsp HTTP/1.1" 200 6166
+0:0:0:0:0:0:0:1 - - [15/Apr/2024:16:45:28 +0530] "GET /Ebook-App/js/script.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [15/Apr/2024:16:45:29 +0530] "GET /Ebook-App/setting.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [15/Apr/2024:16:45:29 +0530] "GET /Ebook-App/login.jsp HTTP/1.1" 200 5318
